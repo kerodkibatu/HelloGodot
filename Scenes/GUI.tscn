@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhqm3lo2iww5p"]
+
+[ext_resource type="PackedScene" uid="uid://b6innt2s2hx4t" path="res://Scenes/GameUI.tscn" id="1_xq764"]
+
+[node name="Canvas" type="CanvasLayer"]
+
+[node name="GameUI" parent="." node_paths=PackedStringArray("ScoreLabel") instance=ExtResource("1_xq764")]
+offset_right = 112.0
+offset_bottom = 64.0
+ScoreLabel = NodePath("")
