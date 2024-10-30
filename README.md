@@ -8,4 +8,4 @@ It's a simple 2D platformer game where you play as a knight who has to collect c
 - Jump: Space
 
 ---
-![Screenshot](Screenshots/screenshot1.png)
+![Screenshot](Screenshots/Screenshot1.png)
